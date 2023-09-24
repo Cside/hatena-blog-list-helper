@@ -17,13 +17,8 @@
   "content_scripts": [
     {
       "matches": ["https://blog.hatena.ne.jp/*/*/edit", "https://blog.hatena.ne.jp/*/*/edit?*"],
-      "js": ["src/contentScript/main.ts"],
+      "js": ["lib/MarkdownHelper.js", "src/contentScript/main.ts"],
       "run_at": "document_end"
     }
-  ],
-  "background": {
-    "service_worker": "src/background/main.ts",
-    "type": "module"
-  },
-  "permissions": ["tabs"]
+  ]
 }
