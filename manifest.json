@@ -3,7 +3,7 @@
   "name": "はてなブログ Markdown リスト入力支援",
   "description": "FIXME",
   "manifest_version": 3,
-  "default_locale": "en",
+  "default_locale": "ja",
   "action": {
     "default_icon": "images/icon38.png",
     "default_popup": "popup.html"

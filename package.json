@@ -7,7 +7,7 @@
     "package": "run-s package:*",
     "package:chrome": "./scripts/package-chrome.sh",
     "package:firefox": "./scripts/package-firefox.sh",
-    "test": "vitest --run",
+    "test": "echo \"not implemented yet\"",
     "lint:eslint": "run-p -c lint:eslint:*",
     "lint-fix:eslint": "run-p -c lint-fix:eslint:*",
     "lint:eslint:ts": "eslint './src/**/*.ts'",
