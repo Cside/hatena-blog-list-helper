@@ -8,7 +8,7 @@ manifest.background = {
 };
 manifest.browser_specific_settings = {
   gecko: {
-    id: 'classic-amazon-stars@github.com',
+    id: 'hatena-blog-list-helper@github.com',
   },
 };
 

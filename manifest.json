@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "はてなブログ Markdown リスト入力支援",
-  "description": "FIXME",
+  "description": "はてなブログの Markdown 記法で、リスト（箇条書き）の先頭の記号を補完して入力します。",
   "manifest_version": 3,
   "default_locale": "ja",
   "action": {
