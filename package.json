@@ -21,7 +21,7 @@
     "check:types": "tsc --noEmit",
     "check:ng-word": "./scripts/check-ng-words.sh",
     "check:unused-exports": "ts-prune -e",
-    "check": "run-p -c test lint check:*"
+    "check-all": "run-p -c test lint check:*"
   },
   "devDependencies": {
     "@crxjs/vite-plugin": "^1.0.14",

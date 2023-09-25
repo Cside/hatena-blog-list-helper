@@ -51,7 +51,7 @@ jobs:
           PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
           NODE_AUTH_TOKEN: ${{ secrets.WRITABLE_TOKEN }}
 
-      - run: pnpm run check
+      - run: pnpm run check-all
 
       # https://action-slack.netlify.app/usage/
       - uses: 8398a7/action-slack@v3
