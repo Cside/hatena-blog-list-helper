@@ -3,6 +3,10 @@
     "id": "lnidemekhlcpbkpmmgcmgdjepkpompol",
     "developerId": "a66eb7ce-b7b6-4d92-a9cb-35d11a33896a"
   },
+  "edge": {
+    "crxId": "hkhmpecjgdjaehadeenmhmfgnimkmcef",
+    "productId": "3651f837-6775-4930-a155-8889a1f59c76"
+  },
   "firefox": {
     "id": "hatena-blog-list-helper@github.com",
     "slug": "はてなブログmarkdownリスト入力支援"
