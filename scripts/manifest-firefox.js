@@ -3,9 +3,6 @@ import fs from 'fs';
 const manifest = JSON.parse(fs.readFileSync('/dev/stdin', 'utf8'));
 
 manifest.manifest_version = 2;
-manifest.background = {
-  page: 'background.html',
-};
 manifest.browser_specific_settings = {
   gecko: {
     id: 'hatena-blog-list-helper@github.com',
