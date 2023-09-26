@@ -1,11 +1,4 @@
-# Return Amazon 5 Stars & Number of Reviews ( Browser Extension )
-
-## Install
-
-- [Chrome](https://chrome.google.com/webstore/detail/nahhbhpfahionfaobhlmoldlicdaoddg)
-- [Edge](https://microsoftedge.microsoft.com/addons/detail/mpjnchaiiljgjanbceaoampplmeeibdh)
-- [Firefox](https://addons.mozilla.org/firefox/addon/classic-amazon-stars/)
-- [Greasy Fork](https://greasyfork.org/scripts/474149-return-amazon-5-stars-number-of-reviews)
+WIP
 
 <a href="https://chrome.google.com/webstore/detail/nahhbhpfahionfaobhlmoldlicdaoddg" target="_blank"><img src="https://user-images.githubusercontent.com/315510/262693816-9871ef8b-d7e7-4f0c-856d-7baa510f1715.png" width="500px" /></a>
 
