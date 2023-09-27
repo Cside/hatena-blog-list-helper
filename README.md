@@ -26,13 +26,13 @@ pnpm run build
 
 ## How to Send Pull Requests
 
-⚠️ If you have a feature request, please discuss it with me on [/issues](https://github.com/Cside/return-amazon-5-stars-and-number-of-reviews/issues) before writing your code.
+⚠️ If you have a feature request, please discuss it with me on [/issues](https://github.com/Cside/hatena-blog-list-helper/issues) before writing your code.
 
 Create a branch from `develop` and make a pull request to `develop` .
 
 ## Release Notes
 
-[/releases](https://github.com/Cside/return-amazon-5-stars-and-number-of-reviews/releases)
+[/releases](https://github.com/Cside/hatena-blog-list-helper/releases)
 
 ## License
 
